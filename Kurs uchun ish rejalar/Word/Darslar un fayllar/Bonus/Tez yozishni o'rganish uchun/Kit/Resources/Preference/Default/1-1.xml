@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<!-- Keyboard types -->
+<!-- Encoding: Unicode (UTF-16); Line endings: CR+LF -->
+<!-- <item>[ID]: keyboard layout KLID ( required )-->
+<!-- <item>[Type]: keyboard type ( required )-->
+<!-- <item>[Name]: layout name-->
+<root ver="1" >
+<item ID="00000401" Type="1001" Name="Arabic" />
+<item ID="00000402" Type="1001" Name="Bulgarian" />
+<item ID="00000404" Type="1003" Name="China (Traditional)" />
+<item ID="00000405" Type="1001" Name="Czech" />
+<item ID="00000406" Type="1002" Name="Danish" />
+<item ID="00000407" Type="1004" Name="Germany" />
+<item ID="00000408" Type="1002" Name="Greek" />
+<item ID="00000409" Type="1001" Name="United States" />
+<item ID="0000040a" Type="1002" Name="Spanish (Spain)" />
+<item ID="0000040b" Type="1002" Name="Finnish" />
+<item ID="0000040c" Type="1002" Name="French" />
+<item ID="0000040d" Type="1003" Name="Hebrew" />
+<item ID="0000040e" Type="1002" Name="Hungary" />
+<item ID="0000040f" Type="1002" Name="Icelandic" />
+<item ID="00000410" Type="1002" Name="Italian" />
+<item ID="00000411" Type="1002" Name="Japanese" />
+<item ID="00000413" Type="1004" Name="Dutch (Netherlands)" />
+<item ID="00000414" Type="1002" Name="Norwegian" />
+<item ID="00000415" Type="1004" Name="Polish (programmers)" />
+<item ID="00000416" Type="1002" Name="Portuguese (Brazil)" />
+<item ID="00000418" Type="1001" Name="Romanian (in Romania and Moldova)" />
+<item ID="00000419" Type="1003" Name="Russian" />
+<item ID="0000041a" Type="1002" Name="Croatian" />
+<item ID="0000041b" Type="1001" Name="Slovak" />
+<item ID="0000041c" Type="1002" Name="Albania" />
+<item ID="0000041d" Type="1002" Name="Swedish" />
+<item ID="0000041e" Type="1001" Name="Thai Kedmanee" />
+<item ID="0000041f" Type="1002" Name="Turkish" />
+<item ID="00000422" Type="1003" Name="Ukranian" />
+<item ID="00000423" Type="1001" Name="Belarus" />
+<item ID="00000424" Type="1002" Name="Slovene" />
+<item ID="00000425" Type="1002" Name="Estonian" />
+<item ID="00000426" Type="1005" Name="Latvian" />
+<item ID="00000427" Type="1005" Name="Lithuanian" />
+<item ID="0000042a" Type="1002" Name="Vietnamese" />
+<item ID="0000042b" Type="1002" Name="Armenian" />
+<item ID="0000042c" Type="1001" Name="Azeri (Latin)" />
+<item ID="0000042f" Type="1002" Name="Macedonian (FYROM)" />
+<item ID="00000438" Type="1002" Name="Faroese" />
+<item ID="00000439" Type="1002" Name="Devanagari(Sanskrit)" />
+<item ID="0000043a" Type="1001" Name="Maltese (47 keys)" />
+<item ID="0000043b" Type="1002" Name="Norwegian (with Sami)" />
+<item ID="0000043f" Type="1004" Name="Kazakh" />
+<item ID="00000440" Type="1002" Name="Kyrgyz (Cyrillic)" />
+<item ID="00000444" Type="1002" Name="Tatar" />
+<item ID="00000450" Type="1001" Name="Mongolian (Cyrillic)" />
+<item ID="00000451" Type="1004" Name="Tibetan (China)" />
+<item ID="00000452" Type="1002" Name="United Kingdom extended" />
+<item ID="00000453" Type="1003" Name="Khmer" />
+<item ID="0000046e" Type="1002" Name="Luxembourg" />
+<item ID="00000481" Type="1001" Name="Maori" />
+<item ID="00000804" Type="1003" Name="China (Simplified)" />
+<item ID="00000807" Type="1002" Name="Switzerland (German)" />
+<item ID="00000809" Type="1002" Name="United Kingdom" />
+<item ID="00000810" Type="1002" Name="Switzerland ( Italian ), Liechtenstein" />
+<item ID="0000080a" Type="1002" Name="Spanish (Latin America)" />
+<item ID="0000080c" Type="1002" Name="Belgian (French)" />
+<item ID="00000813" Type="1002" Name="Belgian (dot)" />
+<item ID="00000816" Type="1002" Name="Portuguese (Portugal)" />
+<item ID="0000081a" Type="1002" Name="Serbian (Latin)" />
+<item ID="0000082c" Type="1004" Name="Azeri (Cyrillic)" />
+<item ID="0000083b" Type="1002" Name="Swedish (with Sami)" />
+<item ID="00000843" Type="1001" Name="Uzbek (Cyrillic)" />
+<item ID="0000085d" Type="" Name="Inuktitut (Latin)" />
+<item ID="00000c07" Type="1002" Name="Austria" />
+<item ID="00000c09" Type="1001" Name="Australian" />
+<item ID="00000c0c" Type="1002" Name="Canadian French" />
+<item ID="00000c1a" Type="1001" Name="Serbian" />
+<item ID="00001009" Type="1001" Name="Canadian" />
+<item ID="0000100c" Type="1002" Name="Switzerland (French)" />
+<item ID="00001409" Type="1001" Name="New Zealand" />
+<item ID="0000141a" Type="1002" Name="Bosnian" />
+<item ID="00001809" Type="1002" Name="Irish" />
+<item ID="0000201a" Type="1002" Name="Bosnian (Cyrillic)" />
+<item ID="00010402" Type="1005" Name="Bulgarian (Latin)" />
+<item ID="00010405" Type="1002" Name="Czech (QWERTY)" />
+<item ID="00010407" Type="1004" Name="Germany (IBM)" />
+<item ID="00010408" Type="1002" Name="Greek (220)" />
+<item ID="00010409" Type="1001" Name="US Dvorak" />
+<item ID="0001040a" Type="1002" Name="Spanish 2 (Variation)" />
+<item ID="0001040e" Type="1002" Name="Hungary" />
+<item ID="00010410" Type="1002" Name="Italian (142)" />
+<item ID="00010415" Type="1002" Name="Polish (214)" />
+<item ID="00010416" Type="1002" Name="Portuguese (Brazil ABNT)" />
+<item ID="00010419" Type="1001" Name="Russian (typewriter)" />
+<item ID="0001041b" Type="1002" Name="Slovak (QWERTY)" />
+<item ID="0001041e" Type="1001" Name="Thai Pattachote" />
+<item ID="0001041f" Type="1002" Name="Turkish F" />
+<item ID="00010426" Type="1002" Name="Latvian (QWERTY)" />
+<item ID="00010427" Type="1005" Name="Lithuanian" />
+<item ID="0001043a" Type="1002" Name="Maltese (48 keys)" />
+<item ID="0001043b" Type="1002" Name="Sami Extended (Norwegian)" />
+<item ID="0001080c" Type="1002" Name="Belgium (comma)" />
+<item ID="0001083b" Type="1002" Name="Finnish (with Sami)" />
+<item ID="00011009" Type="1002" Name="Canadian standard (International)" />
+<item ID="00011809" Type="1002" Name="Gaelic" />
+<item ID="00020405" Type="1002" Name="Czech (programmers)" />
+<item ID="00020408" Type="1002" Name="Greek (319)" />
+<item ID="00020409" Type="1001" Name="US-International" />
+<item ID="0002083b" Type="1002" Name="Sami Extended (Finnish-Swedish)" />
+<item ID="00030408" Type="1002" Name="Greek (220) Latin" />
+<item ID="00030409" Type="1001" Name="US Dvorak left hand" />
+<item ID="00040408" Type="1002" Name="Greek (319) Latin" />
+<item ID="00040409" Type="1001" Name="US Dvorak rigth hand" />
+<item ID="0001042b" Type="1002" Name="Armenian Western" />
+<item ID="00050408" Type="1004" Name="Greek Latin" />
+<item ID="00060408" Type="1004" Name="Greek polytonic" />
+
+
+<item ID="" CharSet="204" CodePage="1251" Type="1002" Name="Moldovan" />
+<item ID="" CharSet="" CodePage="65001" Type="1004" Name="Tibetan Script" />
+<item ID="" CharSet="" CodePage="65001" Type="1004" Name="Dzongkha (Bhutan)" />
+<item ID="" CharSet="" CodePage="65001" Type="1003" Name="Taiwan" />
+<item ID="" CharSet="" CodePage="65001" Type="1003" Name="Hong Kong" />
+<item ID="" CharSet="" CodePage="65001" Type="1003" Name="Dubeolsik" />
+<item ID="" CharSet="" CodePage="65001" Type="1001" Name="Sebeolsik 390" />
+<item ID="" CharSet="" CodePage="65001" Type="1003" Name="Sebeolsik Final" />
+<item ID="" CharSet="" CodePage="65001" Type="1001" Name="Sebeolsik Noshift" />
+</root>

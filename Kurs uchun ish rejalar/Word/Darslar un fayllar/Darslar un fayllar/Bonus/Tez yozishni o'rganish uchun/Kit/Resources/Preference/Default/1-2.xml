@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<!-- Right-Left languages -->
+<!-- Encoding: Unicode (UTF-16); Line endings: CR+LF -->
+<!-- <item>[ID]: language ID ( required )-->
+<root ver="1" >
+ <item ID="1003" Name="Arabic" />
+ <item ID="6002" Name="Farsi" />
+</root>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<!-- Keyboard types -->
+<!-- Encoding: Unicode (UTF-16); Line endings: CR+LF -->
+<!-- <item>[ID]: ID ( required )-->
+<!-- <item>[Layout]: KLID id ( required )-->
+<root ver="1" >
+ <item ID="1001" Layout="00000429" />
+ <item ID="1002" Layout="00000401" />
+ <item ID="1003" Layout="00020401" />
+ <item ID="1004" Layout="0000040d" />
+</root>
